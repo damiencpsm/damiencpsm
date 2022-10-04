@@ -1,6 +1,7 @@
 ### Hi there 👋
-- 🔭 I’m currently working on a bookshelf website with NextJS and TailwindCSS
-- 🌱 I’m currently learning GraphQL
+- ⚡ I was away learning some non-dev things but I'm back to build website and mobile apps!
+- 🔭 I’m currently working on a bookshelf website with T3 Stack
+- 🌱 I’m currently learning Framer Motion for animation
 - 👯 I’m looking to collaborate on PERN Stack
 - 😄 Pronouns: He/him 🚹
 
